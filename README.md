@@ -1,3 +1,5 @@
 # test-repo
+    it's from  vs code 
 
-<span>Hey Buddy </span>
+## Repository Purpose
+    The purpose of this repository is to provide examples for the README.md file in other repositories
